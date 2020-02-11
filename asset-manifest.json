@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/one-page-portfolio/static/css/main.371d0094.chunk.css",
+    "main.js": "/one-page-portfolio/static/js/main.575c415d.chunk.js",
+    "main.js.map": "/one-page-portfolio/static/js/main.575c415d.chunk.js.map",
+    "runtime-main.js": "/one-page-portfolio/static/js/runtime-main.7152ec6b.js",
+    "runtime-main.js.map": "/one-page-portfolio/static/js/runtime-main.7152ec6b.js.map",
+    "static/css/2.67123b20.chunk.css": "/one-page-portfolio/static/css/2.67123b20.chunk.css",
+    "static/js/2.557050a2.chunk.js": "/one-page-portfolio/static/js/2.557050a2.chunk.js",
+    "static/js/2.557050a2.chunk.js.map": "/one-page-portfolio/static/js/2.557050a2.chunk.js.map",
+    "index.html": "/one-page-portfolio/index.html",
+    "precache-manifest.796f068a5b75bcd66da2baa61f975f01.js": "/one-page-portfolio/precache-manifest.796f068a5b75bcd66da2baa61f975f01.js",
+    "service-worker.js": "/one-page-portfolio/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/one-page-portfolio/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.371d0094.chunk.css.map": "/one-page-portfolio/static/css/main.371d0094.chunk.css.map",
+    "static/js/2.557050a2.chunk.js.LICENSE.txt": "/one-page-portfolio/static/js/2.557050a2.chunk.js.LICENSE.txt",
+    "static/media/RPS.png": "/one-page-portfolio/static/media/RPS.c7a70ca9.png",
+    "static/media/burger.png": "/one-page-portfolio/static/media/burger.d1b45b63.png",
+    "static/media/clicky.png": "/one-page-portfolio/static/media/clicky.ac262b4f.png",
+    "static/media/dads.png": "/one-page-portfolio/static/media/dads.42312118.png",
+    "static/media/fmf.png": "/one-page-portfolio/static/media/fmf.9fb3e127.png",
+    "static/media/friendFinder.png": "/one-page-portfolio/static/media/friendFinder.8a71dc9e.png",
+    "static/media/giftastic.png": "/one-page-portfolio/static/media/giftastic.c2eb0d2b.png",
+    "static/media/googleBooks.png": "/one-page-portfolio/static/media/googleBooks.4765d309.png",
+    "static/media/hangman.png": "/one-page-portfolio/static/media/hangman.6b81db5d.png",
+    "static/media/niceCity.png": "/one-page-portfolio/static/media/niceCity.9fc49403.png",
+    "static/media/numNauts.png": "/one-page-portfolio/static/media/numNauts.f4db657d.png",
+    "static/media/scraper.png": "/one-page-portfolio/static/media/scraper.b1446148.png",
+    "static/media/trivia.png": "/one-page-portfolio/static/media/trivia.1ea3b51e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7152ec6b.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.557050a2.chunk.js",
+    "static/css/main.371d0094.chunk.css",
+    "static/js/main.575c415d.chunk.js"
+  ]
+}
